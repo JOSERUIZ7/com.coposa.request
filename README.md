@@ -10,7 +10,7 @@ Put the plugin description here
 
 ## Contributors
 
-- Put the contributor list here, format: Year Name <name@email.com>.
+- Put the contributor list here, format: Year Name <ruizjose@gmail.com>.
 
 ## Components
 
